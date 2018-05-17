@@ -1,0 +1,2 @@
+<a href="https://www.instamojo.com/@Digi_Lancer/" rel="im-checkout" data-behaviour="link" data-style="light" data-text="Checkout With Instamojo"></a>
+<script src="https://js.instamojo.com/v1/button.js"></script>
